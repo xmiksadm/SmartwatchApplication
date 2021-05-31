@@ -1,9 +1,0 @@
-firebase:
-
-1. go to firebase.google.com
-2. log in
-3. go to console
-4. add project
-5. create new project
-6. go to android studio
-7. tools > firebase > realtime databse > connect yout app to database > add the rt db to your app
