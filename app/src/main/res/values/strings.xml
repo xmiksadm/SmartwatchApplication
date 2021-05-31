@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Bakalarka</string>
+    <string name="nastavenia">Nastavenia</string>
+    <string name="pridatsenzor">Pridať senzor</string>
+    <string name="Synchronizovať_hodinky">Synchronizovať hodinky</string>
+    <string name="gasens_id">GaSens ID</string>
+    <string name="submit">Uložiť</string>
+    <string name="vsetky_izby">Všetky izby</string>
+    <string name="rizikove_izby">Rizikové izby</string>
+    <string name="back">Späť</string>
+    <string name="spodna_hranica">Spodná hranica</string>
+    <string name="horna_hranica">Horná hranica</string>
+    <string name="teplota">Teplota</string>
+    <string name="vlhkost">Vlhkosť</string>
+    <string name="tlak">Tlak</string>
+    <string name="kvalita_vzduchu">Kvalita vzduchu</string>
+    <string name="potvrdit">Potvrdiť</string>
+    <string name="nastavenia_izby">Nastavenia Izby</string>
+    <string name="room_name">Názov izby</string>
+    <string name="ulozit_nazov">Uložiť názov</string>
+    <string name="patient_name">Meno pacienta</string>
+    <string name="patient_age">Vek pacienta</string>
+    <string name="ulozit_osobne_informacie">Uložiť osobné informácie</string>
+    <string name="illness_name">Názov choroby</string>
+    <string name="pridat_chorobu">Pridať chorobu</string>
+    <string name="nastavit_rizikove_hranice">Nastaviť rizikové hranice</string>
+    <string name="spät">Späť</string>
+    <string name="delete_room">Naozaj chcete odstrániť túto izbu?</string>
+    <string name="delete">Odstrániť</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="options">Options</string>
+    <string name="delete_rom">Delete room</string>
+    <string name="meno">Meno:</string>
+    <string name="vek">Vek:</string>
+    <string name="choroby">Choroby:</string>
+    <string name="open_line_chart">Open Line Chart</string>
+</resources>

@@ -1,0 +1,373 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:2:1-72:12
+MERGED from [androidx.wear:wear:1.1.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\5952d35a210c65aa19cb206d33a961b5\wear-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.support:wearable:2.8.1] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\b6e7465b7791c083a1c1912341dc14e6\jetified-wearable-2.8.1\AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\f7986b523d94159bfeeaf769253204a1\preference-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\2f9a4c2f11653d7aab205ac361450999\recyclerview-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\6ba9b8992a9c541be4c377399a9dcfc6\percentlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\ed370ec18d4d636f69b1d25446afb768\legacy-support-v13-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-wearable:17.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\e0aab72b5b156473a016c8edb78b8e86\jetified-play-services-wearable-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\006b46906b2f770011761845d9282045\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\e7700bf3fcf4236768ca476b82b72080\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database:19.7.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\24ac034c76dfb1b3647cba84ddb1672b\jetified-firebase-database-19.7.0\AndroidManifest.xml:15:1-38:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\d43ec17db5d741fd4f6cd809fe013547\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\795c777fa42a2b7dd69e6943f1778c9f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\a08a61d091975000a4dce67a59e2d28a\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\f814974419152abc412d9d41345c2be3\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\6217ae39eb11b529fe17c9fec473abce\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\eecee34b17242397bb82e69bb17e15e1\jetified-firebase-database-collection-17.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\97762cadcf6efc2fd07f9a69ce6d22a4\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\11cfac957c2aaac33a539a97075c2a35\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\6137949eb04c0baf7bc42e782c634fb9\jetified-firebase-common-19.5.0\AndroidManifest.xml:15:1-49:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\4bd86395ec803b061ad27b192511121b\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\673ad0707d733aa5817b98bae7b95b87\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\afa12f934ae33d2e63114efd367d7e2a\fragment-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\98e4eac5dbabdc03dc9a3208d4ac5a12\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\d344556663e01f06659c4b7ee7cd264e\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\25cb7c192da1fb4a904ba99b31661bf3\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\b0cf5ff9a9e3bf92de74d76f28de8f48\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\8c87e949e9f9d3cdf435adfefa7cc286\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\7f4c42c1c3c6ebd681e475a59f065589\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\a1ba948683f1cc3fb6b9651269eda2cf\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\9829eea8ae0f5228bbfaa82ce37718cd\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\439966cf1b8cc1f27bb07abb4ba5dfaf\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\e17bdec46d5ed3de9528472d4402ade8\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\cebdbf0203f70fcdd27366005c819665\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\227b0a1796476d93b382253a71582657\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\8f4d682c0342e0ab9cc18f208bf5b22b\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\9343bafb14981f23529b908b282099d2\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\232f4a453ff4ee4dc4d17aca3feda22c\jetified-firebase-components-16.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\a577a4f2d9e6384dbceeb5e0ea30a993\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\593fd7784a3adf6978e158c9ea2ee8a9\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\29c53c5e3e58c7098f6a27ba55a38234\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\1c2986d6bd65887558e43389ae3b9359\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\e0024bebabec981e22b5e1987c373c62\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\5d2605c4aa56930ff6c6da778c82889b\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\6cbcfb2ce82b6124d3e0157ed6461498\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\a7f922414fff1921feb09903e507b7cf\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\f74865da85a7a70a13fd763f363f9a39\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\222d2d3818c539e35ee4f60deabbc412\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\5e02444273c6a07c53ce8cd033ff27e1\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:2:1-72:12
+	package
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:2:1-72:12
+		INJECTED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:2:1-72:12
+		INJECTED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:7:22-74
+uses-feature#android.hardware.type.watch
+ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:9:5-64
+	android:name
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:9:19-61
+uses-permission#android.permission.BODY_SENSORS
+ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:11:22-68
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:12:5-67
+MERGED from [com.google.firebase:firebase-database:19.7.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\24ac034c76dfb1b3647cba84ddb1672b\jetified-firebase-database-19.7.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:19.7.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\24ac034c76dfb1b3647cba84ddb1672b\jetified-firebase-database-19.7.0\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-database:19.7.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\24ac034c76dfb1b3647cba84ddb1672b\jetified-firebase-database-19.7.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:19.7.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\24ac034c76dfb1b3647cba84ddb1672b\jetified-firebase-database-19.7.0\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:15:22-72
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:16:22-63
+application
+ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:18:5-70:19
+MERGED from [com.google.android.support:wearable:2.8.1] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\b6e7465b7791c083a1c1912341dc14e6\jetified-wearable-2.8.1\AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.support:wearable:2.8.1] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\b6e7465b7791c083a1c1912341dc14e6\jetified-wearable-2.8.1\AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.gms:play-services-wearable:17.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\e0aab72b5b156473a016c8edb78b8e86\jetified-play-services-wearable-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:17.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\e0aab72b5b156473a016c8edb78b8e86\jetified-play-services-wearable-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\006b46906b2f770011761845d9282045\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\006b46906b2f770011761845d9282045\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-database:19.7.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\24ac034c76dfb1b3647cba84ddb1672b\jetified-firebase-database-19.7.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.7.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\24ac034c76dfb1b3647cba84ddb1672b\jetified-firebase-database-19.7.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\97762cadcf6efc2fd07f9a69ce6d22a4\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\97762cadcf6efc2fd07f9a69ce6d22a4\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\11cfac957c2aaac33a539a97075c2a35\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\11cfac957c2aaac33a539a97075c2a35\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\6137949eb04c0baf7bc42e782c634fb9\jetified-firebase-common-19.5.0\AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\6137949eb04c0baf7bc42e782c634fb9\jetified-firebase-common-19.5.0\AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\4bd86395ec803b061ad27b192511121b\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\4bd86395ec803b061ad27b192511121b\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\673ad0707d733aa5817b98bae7b95b87\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\673ad0707d733aa5817b98bae7b95b87\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.2] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\8f4d682c0342e0ab9cc18f208bf5b22b\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\8f4d682c0342e0ab9cc18f208bf5b22b\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\a577a4f2d9e6384dbceeb5e0ea30a993\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\a577a4f2d9e6384dbceeb5e0ea30a993\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\8f4d682c0342e0ab9cc18f208bf5b22b\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:20:9-52
+	android:allowBackup
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:22:9-59
+uses-library#com.google.android.wearable
+ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:24:9-26:39
+MERGED from [com.google.android.support:wearable:2.8.1] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\b6e7465b7791c083a1c1912341dc14e6\jetified-wearable-2.8.1\AndroidManifest.xml:10:9-12:40
+MERGED from [com.google.android.support:wearable:2.8.1] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\b6e7465b7791c083a1c1912341dc14e6\jetified-wearable-2.8.1\AndroidManifest.xml:10:9-12:40
+	android:required
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:25:13-55
+meta-data#com.google.android.wearable.standalone
+ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:31:9-33:36
+	android:value
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:33:13-33
+	android:name
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:32:13-66
+activity#com.example.bakalarka.activities.SensorActivity
+ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:35:9-43:20
+	android:label
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:37:13-58
+	android:name
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:36:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:41:27-74
+activity#com.example.bakalarka.activities.SecondActivity
+ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:44:9-47:20
+	android:theme
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:46:13-63
+	android:name
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:45:13-54
+activity#com.example.bakalarka.activities.Fullscreen
+ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:48:9-58
+	android:name
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:48:19-56
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:50:9-52:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\673ad0707d733aa5817b98bae7b95b87\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\673ad0707d733aa5817b98bae7b95b87\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:52:13-66
+	android:name
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:51:13-58
+activity#com.example.bakalarka.activities.WearMainActivity
+ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:54:9-68:20
+	android:label
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:56:13-45
+	android:name
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:55:13-56
+intent-filter#action:name:com.example.android.wearable.datalayer.EXAMPLE+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:62:13-66:29
+action#com.example.android.wearable.datalayer.EXAMPLE
+ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:63:17-89
+	android:name
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:63:25-86
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:65:17-76
+	android:name
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:65:27-73
+service#com.example.bakalarka.service.SensorBackgroundService
+ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:69:9-92
+	android:exported
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:69:66-90
+	android:name
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml:69:18-65
+uses-sdk
+INJECTED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml
+MERGED from [androidx.wear:wear:1.1.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\5952d35a210c65aa19cb206d33a961b5\wear-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.wear:wear:1.1.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\5952d35a210c65aa19cb206d33a961b5\wear-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.support:wearable:2.8.1] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\b6e7465b7791c083a1c1912341dc14e6\jetified-wearable-2.8.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.support:wearable:2.8.1] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\b6e7465b7791c083a1c1912341dc14e6\jetified-wearable-2.8.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\f7986b523d94159bfeeaf769253204a1\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\f7986b523d94159bfeeaf769253204a1\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\2f9a4c2f11653d7aab205ac361450999\recyclerview-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\2f9a4c2f11653d7aab205ac361450999\recyclerview-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\6ba9b8992a9c541be4c377399a9dcfc6\percentlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\6ba9b8992a9c541be4c377399a9dcfc6\percentlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\ed370ec18d4d636f69b1d25446afb768\legacy-support-v13-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\ed370ec18d4d636f69b1d25446afb768\legacy-support-v13-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:17.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\e0aab72b5b156473a016c8edb78b8e86\jetified-play-services-wearable-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:17.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\e0aab72b5b156473a016c8edb78b8e86\jetified-play-services-wearable-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\006b46906b2f770011761845d9282045\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\006b46906b2f770011761845d9282045\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\e7700bf3fcf4236768ca476b82b72080\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\e7700bf3fcf4236768ca476b82b72080\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database:19.7.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\24ac034c76dfb1b3647cba84ddb1672b\jetified-firebase-database-19.7.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.7.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\24ac034c76dfb1b3647cba84ddb1672b\jetified-firebase-database-19.7.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\d43ec17db5d741fd4f6cd809fe013547\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\d43ec17db5d741fd4f6cd809fe013547\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\795c777fa42a2b7dd69e6943f1778c9f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\795c777fa42a2b7dd69e6943f1778c9f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\a08a61d091975000a4dce67a59e2d28a\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\a08a61d091975000a4dce67a59e2d28a\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\f814974419152abc412d9d41345c2be3\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\f814974419152abc412d9d41345c2be3\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\6217ae39eb11b529fe17c9fec473abce\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\6217ae39eb11b529fe17c9fec473abce\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\eecee34b17242397bb82e69bb17e15e1\jetified-firebase-database-collection-17.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\eecee34b17242397bb82e69bb17e15e1\jetified-firebase-database-collection-17.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\97762cadcf6efc2fd07f9a69ce6d22a4\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\97762cadcf6efc2fd07f9a69ce6d22a4\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\11cfac957c2aaac33a539a97075c2a35\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\11cfac957c2aaac33a539a97075c2a35\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\6137949eb04c0baf7bc42e782c634fb9\jetified-firebase-common-19.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\6137949eb04c0baf7bc42e782c634fb9\jetified-firebase-common-19.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\4bd86395ec803b061ad27b192511121b\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\4bd86395ec803b061ad27b192511121b\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\673ad0707d733aa5817b98bae7b95b87\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\673ad0707d733aa5817b98bae7b95b87\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\afa12f934ae33d2e63114efd367d7e2a\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\afa12f934ae33d2e63114efd367d7e2a\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\98e4eac5dbabdc03dc9a3208d4ac5a12\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\98e4eac5dbabdc03dc9a3208d4ac5a12\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\d344556663e01f06659c4b7ee7cd264e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\d344556663e01f06659c4b7ee7cd264e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\25cb7c192da1fb4a904ba99b31661bf3\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\25cb7c192da1fb4a904ba99b31661bf3\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\b0cf5ff9a9e3bf92de74d76f28de8f48\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\b0cf5ff9a9e3bf92de74d76f28de8f48\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\8c87e949e9f9d3cdf435adfefa7cc286\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\8c87e949e9f9d3cdf435adfefa7cc286\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\7f4c42c1c3c6ebd681e475a59f065589\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\7f4c42c1c3c6ebd681e475a59f065589\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\a1ba948683f1cc3fb6b9651269eda2cf\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\a1ba948683f1cc3fb6b9651269eda2cf\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\9829eea8ae0f5228bbfaa82ce37718cd\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\9829eea8ae0f5228bbfaa82ce37718cd\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\439966cf1b8cc1f27bb07abb4ba5dfaf\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\439966cf1b8cc1f27bb07abb4ba5dfaf\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\e17bdec46d5ed3de9528472d4402ade8\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\e17bdec46d5ed3de9528472d4402ade8\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\cebdbf0203f70fcdd27366005c819665\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\cebdbf0203f70fcdd27366005c819665\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\227b0a1796476d93b382253a71582657\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\227b0a1796476d93b382253a71582657\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\8f4d682c0342e0ab9cc18f208bf5b22b\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\8f4d682c0342e0ab9cc18f208bf5b22b\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\9343bafb14981f23529b908b282099d2\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\9343bafb14981f23529b908b282099d2\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\232f4a453ff4ee4dc4d17aca3feda22c\jetified-firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\232f4a453ff4ee4dc4d17aca3feda22c\jetified-firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\a577a4f2d9e6384dbceeb5e0ea30a993\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\a577a4f2d9e6384dbceeb5e0ea30a993\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\593fd7784a3adf6978e158c9ea2ee8a9\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\593fd7784a3adf6978e158c9ea2ee8a9\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\29c53c5e3e58c7098f6a27ba55a38234\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\29c53c5e3e58c7098f6a27ba55a38234\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\1c2986d6bd65887558e43389ae3b9359\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\1c2986d6bd65887558e43389ae3b9359\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\e0024bebabec981e22b5e1987c373c62\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\e0024bebabec981e22b5e1987c373c62\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\5d2605c4aa56930ff6c6da778c82889b\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\5d2605c4aa56930ff6c6da778c82889b\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\6cbcfb2ce82b6124d3e0157ed6461498\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\6cbcfb2ce82b6124d3e0157ed6461498\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\a7f922414fff1921feb09903e507b7cf\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\a7f922414fff1921feb09903e507b7cf\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\f74865da85a7a70a13fd763f363f9a39\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\f74865da85a7a70a13fd763f363f9a39\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\222d2d3818c539e35ee4f60deabbc412\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\222d2d3818c539e35ee4f60deabbc412\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\5e02444273c6a07c53ce8cd033ff27e1\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\5e02444273c6a07c53ce8cd033ff27e1\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Miksad\AndroidStudioProjects\Bakalarka v1.2\Wearable\src\main\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:19.7.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\24ac034c76dfb1b3647cba84ddb1672b\jetified-firebase-database-19.7.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\6137949eb04c0baf7bc42e782c634fb9\jetified-firebase-common-19.5.0\AndroidManifest.xml:33:9-46:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\6137949eb04c0baf7bc42e782c634fb9\jetified-firebase-common-19.5.0\AndroidManifest.xml:33:9-46:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:19.7.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\24ac034c76dfb1b3647cba84ddb1672b\jetified-firebase-database-19.7.0\AndroidManifest.xml:31:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\6137949eb04c0baf7bc42e782c634fb9\jetified-firebase-common-19.5.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\6137949eb04c0baf7bc42e782c634fb9\jetified-firebase-common-19.5.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.7.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\24ac034c76dfb1b3647cba84ddb1672b\jetified-firebase-database-19.7.0\AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:19.7.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\24ac034c76dfb1b3647cba84ddb1672b\jetified-firebase-database-19.7.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:19.7.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\24ac034c76dfb1b3647cba84ddb1672b\jetified-firebase-database-19.7.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.7.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\24ac034c76dfb1b3647cba84ddb1672b\jetified-firebase-database-19.7.0\AndroidManifest.xml:33:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\97762cadcf6efc2fd07f9a69ce6d22a4\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\97762cadcf6efc2fd07f9a69ce6d22a4\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\97762cadcf6efc2fd07f9a69ce6d22a4\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\97762cadcf6efc2fd07f9a69ce6d22a4\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\6137949eb04c0baf7bc42e782c634fb9\jetified-firebase-common-19.5.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\6137949eb04c0baf7bc42e782c634fb9\jetified-firebase-common-19.5.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\6137949eb04c0baf7bc42e782c634fb9\jetified-firebase-common-19.5.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\6137949eb04c0baf7bc42e782c634fb9\jetified-firebase-common-19.5.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\6137949eb04c0baf7bc42e782c634fb9\jetified-firebase-common-19.5.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\6137949eb04c0baf7bc42e782c634fb9\jetified-firebase-common-19.5.0\AndroidManifest.xml:27:13-77
+meta-data#com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar
+ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\6137949eb04c0baf7bc42e782c634fb9\jetified-firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\6137949eb04c0baf7bc42e782c634fb9\jetified-firebase-common-19.5.0\AndroidManifest.xml:45:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Miksad\.gradle\caches\transforms-2\files-2.1\6137949eb04c0baf7bc42e782c634fb9\jetified-firebase-common-19.5.0\AndroidManifest.xml:44:17-121

@@ -1,0 +1,30 @@
+com/example/bakalarka/service/SensorBackgroundService.java
+ com.example.bakalarka.service.SensorBackgroundService
+ com.example.bakalarka.service.SensorBackgroundService$1
+com/example/bakalarka/data/FirebaseData.java
+ com.example.bakalarka.data.FirebaseData
+com/example/bakalarka/data/Person.java
+ com.example.bakalarka.data.Person
+com/example/bakalarka/data/Room.java
+ com.example.bakalarka.data.Room
+com/example/bakalarka/BuildConfig.java
+ com.example.bakalarka.BuildConfig
+com/example/bakalarka/data/Conditions.java
+ com.example.bakalarka.data.Conditions
+com/example/bakalarka/service/Adapter.java
+ com.example.bakalarka.service.Adapter
+ com.example.bakalarka.service.Adapter$MyViewHolder
+com/example/bakalarka/activities/SensorActivity.java
+ com.example.bakalarka.activities.SensorActivity
+ com.example.bakalarka.activities.SensorActivity$1
+ com.example.bakalarka.activities.SensorActivity$2
+com/example/bakalarka/activities/WearMainActivity.java
+ com.example.bakalarka.activities.WearMainActivity
+ com.example.bakalarka.activities.WearMainActivity$1
+ com.example.bakalarka.activities.WearMainActivity$2
+ com.example.bakalarka.activities.WearMainActivity$3
+ com.example.bakalarka.activities.WearMainActivity$4
+com/example/bakalarka/activities/Fullscreen.java
+ com.example.bakalarka.activities.Fullscreen
+com/example/bakalarka/activities/SecondActivity.java
+ com.example.bakalarka.activities.SecondActivity

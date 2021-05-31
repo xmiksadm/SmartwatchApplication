@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw210dp-v13\\values-sw210dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Miksad\\.gradle\\caches\\transforms-2\\files-2.1\\b6e7465b7791c083a1c1912341dc14e6\\jetified-wearable-2.8.1\\res\\values-sw210dp-v13\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "215,279,339",
+                        "endColumns": "63,59,47",
+                        "endOffsets": "278,338,386"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,123,187",
+                        "endColumns": "67,63,51",
+                        "endOffsets": "118,182,234"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Miksad\\.gradle\\caches\\transforms-2\\files-2.1\\5952d35a210c65aa19cb206d33a961b5\\wear-1.1.0\\res\\values-sw210dp-v13\\values-sw210dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,198,265",
+                        "endColumns": "70,71,66,54",
+                        "endOffsets": "121,193,260,315"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "239,310,382,449",
+                        "endColumns": "70,71,66,54",
+                        "endOffsets": "305,377,444,499"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Bakalarka</string>
+
+    <string name="rooms">Izby</string>
+    <string name="title">New title</string>
+    <string name="details">Details</string>
+    <string name="voc">Kvalita vzduchu: </string>
+    <string name="temperature">Teplota: </string>
+    <string name="humidity">Vlhkost: </string>
+    <string name="pressure">Tlak: </string>
+    <string name="room">Room</string>
+
+    <string name="title_activity_sensor">SensorActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="sensors">Pacient</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="personName">Meno, vek: </string>
+    <!--    <string name="personAge">Vek: </string>-->
+    <string name="heartRate">"Tep srdca: "</string>
+    <string name="hasWatch">"Hodinky: "</string>
+    <string name="fall">"Možný pád: "</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="choose">Vyber izbu</string>
+</resources>

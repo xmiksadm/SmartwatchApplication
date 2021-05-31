@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/dark_grey"
+    android:padding="0dp"
+    tools:context="com.example.bakalarka.activities.WearMainActivity"
+    tools:deviceIds="wear">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black">
+
+        <TextView
+            android:id="@+id/rooms"
+            android:layout_width="0dp"
+            android:layout_height="41dp"
+            android:background="#000000"
+            android:elevation="4dp"
+            android:gravity="center"
+            android:text="@string/rooms"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.491"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/rvPatients"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.wear.widget.WearableRecyclerView
+            android:id="@+id/rvPatients"
+            android:layout_width="205dp"
+            android:layout_height="150dp"
+            android:clickable="true"
+            android:fadeScrollbars="true"
+            android:focusable="true"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/rooms"
+            app:layout_constraintVertical_bias="0.0">
+
+        </androidx.wear.widget.WearableRecyclerView>
+
+        <Button
+            android:id="@+id/buttonSensors"
+            android:layout_width="86dp"
+            android:layout_height="39dp"
+            android:text="@string/sensors"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/rooms"
+            app:layout_constraintVertical_bias="0.619" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</RelativeLayout>

@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_outline_watch_white_24.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-hdpi\\outline_watch_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_outline_favorite_border_white_36.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-xxhdpi\\outline_favorite_border_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_outline_watch_white_18.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-mdpi\\outline_watch_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_outline_favorite_border_white_48.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-hdpi\\outline_favorite_border_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_outline_favorite_border_white_36.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-mdpi\\outline_favorite_border_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\layout_activity_sensor.xml.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\layout\\activity_sensor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\layout_fullscreen.xml.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\layout\\fullscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_thermostat_20.xml.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable\\baseline_thermostat_20.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_outline_favorite_border_white_20.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-xhdpi\\outline_favorite_border_white_20.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_outline_watch_white_20.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-hdpi\\outline_watch_white_20.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_outline_watch_white_36.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-xxhdpi\\outline_watch_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_thermostat_24.xml.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable\\baseline_thermostat_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_outline_watch_white_20.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-xxhdpi\\outline_watch_white_20.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable_outline_watch_24.xml.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable\\outline_watch_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_outline_favorite_border_white_18.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-hdpi\\outline_favorite_border_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_outline_watch_white_36.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-hdpi\\outline_watch_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable_buton_border.xml.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable\\buton_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_outline_favorite_border_white_48.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-xxhdpi\\outline_favorite_border_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_outline_watch_white_24.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-xhdpi\\outline_watch_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_outline_favorite_border_white_24.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-xhdpi\\outline_favorite_border_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_outline_watch_white_36.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-mdpi\\outline_watch_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_water_drop_24.xml.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable\\baseline_water_drop_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_background.xml.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable\\rounded_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_outline_favorite_border_white_24.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-xxhdpi\\outline_favorite_border_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_outline_favorite_border_white_18.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-xxhdpi\\outline_favorite_border_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_outline_watch_white_48.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-xxhdpi\\outline_watch_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_outline_favorite_border_white_24.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-mdpi\\outline_favorite_border_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_outline_watch_white_48.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-hdpi\\outline_watch_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_outline_watch_white_20.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-xhdpi\\outline_watch_white_20.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_outline_watch_white_20.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-mdpi\\outline_watch_white_20.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_outline_favorite_border_white_18.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-mdpi\\outline_favorite_border_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\layout_spinner_textview_align.xml.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\layout\\spinner_textview_align.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_outline_favorite_border_white_18.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-xhdpi\\outline_favorite_border_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_outline_watch_white_36.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-xhdpi\\outline_watch_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable_outline_directions_run_24.xml.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable\\outline_directions_run_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_air_24.xml.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable\\baseline_air_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable_ic_smartwatch_icon.xml.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable\\ic_smartwatch_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_outline_favorite_border_white_20.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-hdpi\\outline_favorite_border_white_20.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_outline_watch_white_18.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-hdpi\\outline_watch_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\layout_spinner_item.xml.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_outline_watch_white_18.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-xhdpi\\outline_watch_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable_ic_slide.xml.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable\\ic_slide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_outline_watch_white_24.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-mdpi\\outline_watch_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_photo_placeholder.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-nodpi\\photo_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_outline_favorite_border_white_24.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-hdpi\\outline_favorite_border_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_outline_watch_white_48.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-xhdpi\\outline_watch_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_outline_favorite_border_white_36.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-xhdpi\\outline_favorite_border_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_outline_favorite_border_white_20.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-mdpi\\outline_favorite_border_white_20.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_outline_favorite_border_white_48.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-mdpi\\outline_favorite_border_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_cottage_24.xml.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable\\baseline_cottage_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_outline_favorite_border_white_20.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-xxhdpi\\outline_favorite_border_white_20.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_outline_favorite_border_white_36.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-hdpi\\outline_favorite_border_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\layout_my_row.xml.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\layout\\my_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable_outline_favorite_border_24.xml.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable\\outline_favorite_border_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_outline_favorite_border_white_48.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-xhdpi\\outline_favorite_border_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_outline_watch_white_48.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-mdpi\\outline_watch_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_water_damage_24.xml.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable\\baseline_water_damage_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_outline_watch_white_24.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-xxhdpi\\outline_watch_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_outline_watch_white_18.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-xxhdpi\\outline_watch_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\layout_activity_second.xml.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

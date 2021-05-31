@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "793861723637",
+    "firebase_url": "https://bakalarka-777ba-default-rtdb.firebaseio.com",
+    "project_id": "bakalarka-777ba",
+    "storage_bucket": "bakalarka-777ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793861723637:android:ec1073c6ecff4916d9fcbc",
+        "android_client_info": {
+          "package_name": "com.example.bakalarka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793861723637-8iju6848c914ah3rccqhe0p5125a8ebk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQARaVrUZSBzIH9TJdAjVmm_y_VUXnDFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793861723637-8iju6848c914ah3rccqhe0p5125a8ebk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793861723637:android:ad1e1dde562fd988d9fcbc",
+        "android_client_info": {
+          "package_name": "com.example.bakalarkapacient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793861723637-8iju6848c914ah3rccqhe0p5125a8ebk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQARaVrUZSBzIH9TJdAjVmm_y_VUXnDFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793861723637-8iju6848c914ah3rccqhe0p5125a8ebk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793861723637:android:e46b16778e1fd947d9fcbc",
+        "android_client_info": {
+          "package_name": "com.example.firebasephone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793861723637-8iju6848c914ah3rccqhe0p5125a8ebk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQARaVrUZSBzIH9TJdAjVmm_y_VUXnDFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793861723637-8iju6848c914ah3rccqhe0p5125a8ebk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+include ':app'
+include ':Wearable'
+//include ':app'
+rootProject.name = "Bakalarka"

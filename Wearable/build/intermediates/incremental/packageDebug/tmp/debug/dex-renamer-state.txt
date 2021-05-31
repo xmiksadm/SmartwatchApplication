@@ -1,0 +1,7 @@
+#Mon May 31 18:27:44 CEST 2021
+base.0=C\:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\Miksad\\AndroidStudioProjects\\Bakalarka v1.2\\Wearable\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
